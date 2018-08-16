@@ -1,0 +1,748 @@
+2018-02-28 13:56:19,581:DEBUG:User Input from Main Prompt: 2
+2018-02-28 13:56:19,584:INFO:Set Attributes Called
+2018-02-28 14:38:50,018:ERROR:Unable to Generate User Report
+2018-02-28 14:38:50,021:ERROR:sequence item 0: expected string, NoneType found
+2018-02-28 14:42:05,232:ERROR:Unable to Generate User Report
+2018-02-28 14:42:05,233:ERROR:sequence item 0: expected string, NoneType found
+2018-02-28 14:44:45,317:ERROR:Unable to Generate User Report
+2018-02-28 14:44:45,318:ERROR:sequence item 0: expected string, NoneType found
+2018-02-28 14:48:43,253:ERROR:Unable to Generate User Report
+2018-02-28 14:48:43,254:ERROR:sequence item 0: expected string, NoneType found
+2018-03-22 23:19:29,111:ERROR:Unable to locate ct-2024-1/Port_01 10GbE
+2018-03-22 23:19:29,639:ERROR:Unable to locate ct-4032f-1/Port_06 10GbE
+2018-03-22 23:19:30,196:ERROR:Unable to locate ct-4032f-1/Port_05 10GbE
+2018-03-22 23:19:30,695:ERROR:Unable to locate ct-4064f-2/Port_06 10GbE
+2018-03-22 23:19:31,262:ERROR:Unable to locate ct-4064f-2/Port_05 10GbE
+2018-03-22 23:19:33,715:ERROR:Unable to locate ct-s55-10/Port_00 1GbE
+2018-03-22 23:19:34,258:ERROR:Unable to locate ct-s55-10/Port_43 1GbE
+2018-03-22 23:19:34,749:ERROR:Unable to locate ct-4032-1/Port_04 10GbE
+2018-03-22 23:19:35,278:ERROR:Unable to locate ct-2024-1/Port_03 1GbE
+2018-03-22 23:19:35,869:ERROR:Unable to locate ct-2048-1/Port_04 1GbE
+2018-03-22 23:19:36,351:ERROR:Unable to locate ct-2048-1/Port_03 1GbE
+2018-03-22 23:19:36,849:ERROR:Unable to locate ct-3024-1/Port_03 1GbE
+2018-03-22 23:19:37,420:ERROR:Unable to locate ct-3048-1/Port_02 10GbE
+2018-03-22 23:19:38,019:ERROR:Unable to locate ct-3048-1/Port_01 10GbE
+2018-03-22 23:19:38,608:ERROR:Unable to locate ct-4032-1/Port_03 10GbE
+2018-03-22 23:19:39,248:ERROR:Unable to locate ct-4064-1/Port_02 10GbE
+2018-03-22 23:19:39,752:ERROR:Unable to locate ct-4064-1/Port_01 10GbE
+2018-03-22 23:19:41,091:ERROR:Unable to locate ct-5548p-1/Port_02 10GbE
+2018-03-22 23:19:46,985:ERROR:Unable to locate ct-n1524-1/Port_01 10GbE
+2018-03-22 23:19:47,684:ERROR:Unable to locate ct-n1548-1/Port_01 10GbE
+2018-03-22 23:19:48,946:ERROR:Unable to locate ct-s4810-11/mgmt
+2018-03-22 23:19:49,693:ERROR:Unable to locate ct-laptop-CPS/mgmt
+2018-03-22 23:19:50,279:ERROR:Unable to locate ct-s55-11/Port_37 1GbE
+2018-03-22 23:19:50,922:ERROR:Unable to locate ct-s55-11/Port_43 1GbE
+2018-06-14 08:55:41,683:ERROR:Error locating folder: cpyherpath machines 
+2018-06-14 08:55:41,695:ERROR:Error locating resource family or model
+2018-06-14 08:55:41,696:WARNING:Invalid Row Missing info: Port2
+2018-06-14 08:55:41,696:WARNING:Invalid Row Missing info: Port3
+2018-06-14 08:55:41,696:WARNING:Invalid Row Missing info: Port4
+2018-06-14 08:55:41,696:WARNING:Invalid Row Missing info: Port5
+2018-06-14 08:55:41,696:WARNING:Invalid Row Missing info: Port6
+2018-06-14 08:55:41,696:WARNING:Invalid Row Missing info: Port7
+2018-06-14 08:55:41,696:WARNING:Invalid Row Missing info: Port8
+2018-06-14 08:55:41,697:WARNING:Invalid Row Missing info: Port9
+2018-06-14 08:55:41,697:WARNING:Invalid Row Missing info: Port10
+2018-06-14 08:55:41,697:WARNING:Invalid Row Missing info: Port11
+2018-06-14 08:55:41,697:WARNING:Invalid Row Missing info: Port12
+2018-06-14 08:55:41,697:WARNING:Invalid Row Missing info: Port13
+2018-06-14 08:55:41,697:WARNING:Invalid Row Missing info: Port14
+2018-06-14 08:55:41,697:WARNING:Invalid Row Missing info: Port15
+2018-06-14 08:55:41,698:WARNING:Invalid Row Missing info: Port16
+2018-06-14 08:55:41,698:WARNING:Invalid Row Missing info: Port17
+2018-06-14 08:55:41,698:WARNING:Invalid Row Missing info: Port18
+2018-06-14 08:55:41,698:WARNING:Invalid Row Missing info: Port19
+2018-06-14 08:55:41,698:WARNING:Invalid Row Missing info: Port20
+2018-06-14 08:55:41,698:WARNING:Invalid Row Missing info: Port21
+2018-06-14 08:55:41,698:WARNING:Invalid Row Missing info: Port22
+2018-06-14 08:55:41,699:WARNING:Invalid Row Missing info: Port23
+2018-06-14 08:55:41,699:WARNING:Invalid Row Missing info: Port24
+2018-06-14 08:55:41,699:WARNING:Invalid Row Missing info: Port25
+2018-06-14 08:55:41,699:WARNING:Invalid Row Missing info: Port26
+2018-06-14 08:55:41,699:WARNING:Invalid Row Missing info: Port27
+2018-06-14 08:55:41,699:WARNING:Invalid Row Missing info: Port28
+2018-06-14 08:55:41,699:WARNING:Invalid Row Missing info: Port29
+2018-06-14 08:55:41,699:WARNING:Invalid Row Missing info: Port30
+2018-06-14 08:55:41,700:WARNING:Invalid Row Missing info: Port31
+2018-06-14 08:55:41,700:WARNING:Invalid Row Missing info: Port32
+2018-06-14 08:55:41,700:WARNING:Invalid Row Missing info: Port33
+2018-06-14 08:55:41,700:WARNING:Invalid Row Missing info: Port34
+2018-06-14 08:55:41,700:WARNING:Invalid Row Missing info: Port35
+2018-06-14 08:55:41,700:WARNING:Invalid Row Missing info: Port36
+2018-06-14 08:55:41,700:WARNING:Invalid Row Missing info: Port37
+2018-06-14 08:55:41,700:WARNING:Invalid Row Missing info: Port38
+2018-06-14 08:55:41,700:WARNING:Invalid Row Missing info: Port39
+2018-06-14 08:55:41,700:WARNING:Invalid Row Missing info: Port40
+2018-06-14 08:55:41,700:WARNING:Invalid Row Missing info: Port41
+2018-06-14 08:55:41,701:WARNING:Invalid Row Missing info: Port42
+2018-06-14 08:55:41,701:WARNING:Invalid Row Missing info: Port43
+2018-06-14 08:55:41,701:WARNING:Invalid Row Missing info: Port44
+2018-06-14 08:55:41,701:WARNING:Invalid Row Missing info: Port45
+2018-06-14 08:55:41,701:WARNING:Invalid Row Missing info: Port46
+2018-06-14 08:55:41,701:WARNING:Invalid Row Missing info: Port47
+2018-06-14 08:55:41,701:WARNING:Invalid Row Missing info: Port48
+2018-06-14 08:55:41,701:WARNING:Invalid Row Missing info: Port49
+2018-06-14 08:55:41,701:WARNING:Invalid Row Missing info: Port50
+2018-06-14 08:59:38,662:ERROR:Error locating folder: cypherpath machines 
+2018-06-14 08:59:38,683:ERROR:Error locating resource family or model
+2018-06-14 08:59:38,694:ERROR:Error locating resource family or model
+2018-06-14 08:59:38,704:ERROR:Error locating resource family or model
+2018-06-14 08:59:38,714:ERROR:Error locating resource family or model
+2018-06-14 08:59:38,729:ERROR:Error locating resource family or model
+2018-06-14 08:59:38,739:ERROR:Error locating resource family or model
+2018-06-14 08:59:38,749:ERROR:Error locating resource family or model
+2018-06-14 08:59:38,759:ERROR:Error locating resource family or model
+2018-06-14 08:59:38,769:ERROR:Error locating resource family or model
+2018-06-14 08:59:38,779:ERROR:Error locating resource family or model
+2018-06-14 08:59:38,789:ERROR:Error locating resource family or model
+2018-06-14 08:59:38,798:ERROR:Error locating resource family or model
+2018-06-14 08:59:38,809:ERROR:Error locating resource family or model
+2018-06-14 08:59:38,822:ERROR:Error locating resource family or model
+2018-06-14 08:59:38,832:ERROR:Error locating resource family or model
+2018-06-14 08:59:38,853:ERROR:Error locating resource family or model
+2018-06-14 08:59:38,863:ERROR:Error locating resource family or model
+2018-06-14 08:59:38,873:ERROR:Error locating resource family or model
+2018-06-14 08:59:38,883:ERROR:Error locating resource family or model
+2018-06-14 08:59:38,895:ERROR:Error locating resource family or model
+2018-06-14 08:59:38,906:ERROR:Error locating resource family or model
+2018-06-14 08:59:38,917:ERROR:Error locating resource family or model
+2018-06-14 08:59:38,927:ERROR:Error locating resource family or model
+2018-06-14 08:59:38,937:ERROR:Error locating resource family or model
+2018-06-14 08:59:38,947:ERROR:Error locating resource family or model
+2018-06-14 08:59:38,958:ERROR:Error locating resource family or model
+2018-06-14 08:59:38,968:ERROR:Error locating resource family or model
+2018-06-14 08:59:38,978:ERROR:Error locating resource family or model
+2018-06-14 08:59:38,993:ERROR:Error locating resource family or model
+2018-06-14 08:59:39,003:ERROR:Error locating resource family or model
+2018-06-14 08:59:39,013:ERROR:Error locating resource family or model
+2018-06-14 08:59:39,027:ERROR:Error locating resource family or model
+2018-06-14 08:59:39,037:ERROR:Error locating resource family or model
+2018-06-14 08:59:39,048:ERROR:Error locating resource family or model
+2018-06-14 08:59:39,058:ERROR:Error locating resource family or model
+2018-06-14 08:59:39,067:ERROR:Error locating resource family or model
+2018-06-14 08:59:39,078:ERROR:Error locating resource family or model
+2018-06-14 08:59:39,088:ERROR:Error locating resource family or model
+2018-06-14 08:59:39,098:ERROR:Error locating resource family or model
+2018-06-14 08:59:39,108:ERROR:Error locating resource family or model
+2018-06-14 08:59:39,118:ERROR:Error locating resource family or model
+2018-06-14 08:59:39,128:ERROR:Error locating resource family or model
+2018-06-14 08:59:39,139:ERROR:Error locating resource family or model
+2018-06-14 08:59:39,149:ERROR:Error locating resource family or model
+2018-06-14 08:59:39,159:ERROR:Error locating resource family or model
+2018-06-14 08:59:39,169:ERROR:Error locating resource family or model
+2018-06-14 08:59:39,179:ERROR:Error locating resource family or model
+2018-06-14 08:59:39,189:ERROR:Error locating resource family or model
+2018-06-14 08:59:39,198:ERROR:Error locating resource family or model
+2018-06-14 08:59:39,209:ERROR:Error locating resource family or model
+2018-06-14 09:00:54,956:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:00:54,968:ERROR:Error locating resource family or model
+2018-06-14 09:00:54,978:ERROR:Error locating resource family or model
+2018-06-14 09:00:54,989:ERROR:Error locating resource family or model
+2018-06-14 09:00:54,999:ERROR:Error locating resource family or model
+2018-06-14 09:00:55,011:ERROR:Error locating resource family or model
+2018-06-14 09:00:55,021:ERROR:Error locating resource family or model
+2018-06-14 09:00:55,031:ERROR:Error locating resource family or model
+2018-06-14 09:00:55,041:ERROR:Error locating resource family or model
+2018-06-14 09:00:55,051:ERROR:Error locating resource family or model
+2018-06-14 09:00:55,060:ERROR:Error locating resource family or model
+2018-06-14 09:00:55,070:ERROR:Error locating resource family or model
+2018-06-14 09:00:55,080:ERROR:Error locating resource family or model
+2018-06-14 09:00:55,090:ERROR:Error locating resource family or model
+2018-06-14 09:00:55,100:ERROR:Error locating resource family or model
+2018-06-14 09:00:55,110:ERROR:Error locating resource family or model
+2018-06-14 09:00:55,121:ERROR:Error locating resource family or model
+2018-06-14 09:00:55,135:ERROR:Error locating resource family or model
+2018-06-14 09:00:55,145:ERROR:Error locating resource family or model
+2018-06-14 09:00:55,156:ERROR:Error locating resource family or model
+2018-06-14 09:00:55,166:ERROR:Error locating resource family or model
+2018-06-14 09:00:55,177:ERROR:Error locating resource family or model
+2018-06-14 09:00:55,187:ERROR:Error locating resource family or model
+2018-06-14 09:00:55,198:ERROR:Error locating resource family or model
+2018-06-14 09:00:55,208:ERROR:Error locating resource family or model
+2018-06-14 09:00:55,218:ERROR:Error locating resource family or model
+2018-06-14 09:00:55,228:ERROR:Error locating resource family or model
+2018-06-14 09:00:55,239:ERROR:Error locating resource family or model
+2018-06-14 09:00:55,252:ERROR:Error locating resource family or model
+2018-06-14 09:00:55,263:ERROR:Error locating resource family or model
+2018-06-14 09:00:55,273:ERROR:Error locating resource family or model
+2018-06-14 09:00:55,282:ERROR:Error locating resource family or model
+2018-06-14 09:00:55,298:ERROR:Error locating resource family or model
+2018-06-14 09:00:55,312:ERROR:Error locating resource family or model
+2018-06-14 09:00:55,326:ERROR:Error locating resource family or model
+2018-06-14 09:00:55,335:ERROR:Error locating resource family or model
+2018-06-14 09:00:55,345:ERROR:Error locating resource family or model
+2018-06-14 09:00:55,356:ERROR:Error locating resource family or model
+2018-06-14 09:00:55,366:ERROR:Error locating resource family or model
+2018-06-14 09:00:55,377:ERROR:Error locating resource family or model
+2018-06-14 09:00:55,387:ERROR:Error locating resource family or model
+2018-06-14 09:00:55,397:ERROR:Error locating resource family or model
+2018-06-14 09:00:55,407:ERROR:Error locating resource family or model
+2018-06-14 09:00:55,417:ERROR:Error locating resource family or model
+2018-06-14 09:00:55,428:ERROR:Error locating resource family or model
+2018-06-14 09:00:55,438:ERROR:Error locating resource family or model
+2018-06-14 09:00:55,448:ERROR:Error locating resource family or model
+2018-06-14 09:00:55,457:ERROR:Error locating resource family or model
+2018-06-14 09:00:55,467:ERROR:Error locating resource family or model
+2018-06-14 09:00:55,477:ERROR:Error locating resource family or model
+2018-06-14 09:00:55,488:ERROR:Error locating resource family or model
+2018-06-14 09:04:58,805:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:04:58,963:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:04:58,983:ERROR:Error locating parent resource: network_switch/Chassis_2
+2018-06-14 09:04:59,015:ERROR:Error locating parent resource: network_switch/Chassis_3
+2018-06-14 09:04:59,035:ERROR:Error locating parent resource: network_switch/Chassis_4
+2018-06-14 09:04:59,054:ERROR:Error locating parent resource: network_switch/Chassis_5
+2018-06-14 09:04:59,072:ERROR:Error locating parent resource: network_switch/Chassis_6
+2018-06-14 09:04:59,090:ERROR:Error locating parent resource: network_switch/Chassis_7
+2018-06-14 09:04:59,114:ERROR:Error locating parent resource: network_switch/Chassis_8
+2018-06-14 09:04:59,134:ERROR:Error locating parent resource: network_switch/Chassis_9
+2018-06-14 09:04:59,155:ERROR:Error locating parent resource: network_switch/Chassis_10
+2018-06-14 09:04:59,175:ERROR:Error locating parent resource: network_switch/Chassis_11
+2018-06-14 09:04:59,193:ERROR:Error locating parent resource: network_switch/Chassis_12
+2018-06-14 09:04:59,212:ERROR:Error locating parent resource: network_switch/Chassis_13
+2018-06-14 09:04:59,234:ERROR:Error locating parent resource: network_switch/Chassis_14
+2018-06-14 09:04:59,253:ERROR:Error locating parent resource: network_switch/Chassis_15
+2018-06-14 09:04:59,270:ERROR:Error locating parent resource: network_switch/Chassis_16
+2018-06-14 09:04:59,289:ERROR:Error locating parent resource: network_switch/Chassis_17
+2018-06-14 09:04:59,308:ERROR:Error locating parent resource: network_switch/Chassis_18
+2018-06-14 09:04:59,326:ERROR:Error locating parent resource: network_switch/Chassis_19
+2018-06-14 09:04:59,344:ERROR:Error locating parent resource: network_switch/Chassis_20
+2018-06-14 09:04:59,362:ERROR:Error locating parent resource: network_switch/Chassis_21
+2018-06-14 09:04:59,382:ERROR:Error locating parent resource: network_switch/Chassis_22
+2018-06-14 09:04:59,404:ERROR:Error locating parent resource: network_switch/Chassis_23
+2018-06-14 09:04:59,423:ERROR:Error locating parent resource: network_switch/Chassis_24
+2018-06-14 09:04:59,441:ERROR:Error locating parent resource: network_switch/Chassis_25
+2018-06-14 09:04:59,460:ERROR:Error locating parent resource: network_switch/Chassis_26
+2018-06-14 09:04:59,478:ERROR:Error locating parent resource: network_switch/Chassis_27
+2018-06-14 09:04:59,495:ERROR:Error locating parent resource: network_switch/Chassis_28
+2018-06-14 09:04:59,513:ERROR:Error locating parent resource: network_switch/Chassis_29
+2018-06-14 09:04:59,545:ERROR:Error locating parent resource: network_switch/Chassis_30
+2018-06-14 09:04:59,565:ERROR:Error locating parent resource: network_switch/Chassis_31
+2018-06-14 09:04:59,583:ERROR:Error locating parent resource: network_switch/Chassis_32
+2018-06-14 09:04:59,601:ERROR:Error locating parent resource: network_switch/Chassis_33
+2018-06-14 09:04:59,619:ERROR:Error locating parent resource: network_switch/Chassis_34
+2018-06-14 09:04:59,637:ERROR:Error locating parent resource: network_switch/Chassis_35
+2018-06-14 09:04:59,657:ERROR:Error locating parent resource: network_switch/Chassis_36
+2018-06-14 09:04:59,675:ERROR:Error locating parent resource: network_switch/Chassis_37
+2018-06-14 09:04:59,701:ERROR:Error locating parent resource: network_switch/Chassis_38
+2018-06-14 09:04:59,720:ERROR:Error locating parent resource: network_switch/Chassis_39
+2018-06-14 09:04:59,746:ERROR:Error locating parent resource: network_switch/Chassis_40
+2018-06-14 09:04:59,767:ERROR:Error locating parent resource: network_switch/Chassis_41
+2018-06-14 09:04:59,788:ERROR:Error locating parent resource: network_switch/Chassis_42
+2018-06-14 09:04:59,811:ERROR:Error locating parent resource: network_switch/Chassis_43
+2018-06-14 09:04:59,830:ERROR:Error locating parent resource: network_switch/Chassis_44
+2018-06-14 09:04:59,851:ERROR:Error locating parent resource: network_switch/Chassis_45
+2018-06-14 09:04:59,871:ERROR:Error locating parent resource: network_switch/Chassis_46
+2018-06-14 09:04:59,891:ERROR:Error locating parent resource: network_switch/Chassis_47
+2018-06-14 09:04:59,908:ERROR:Error locating parent resource: network_switch/Chassis_48
+2018-06-14 09:04:59,937:ERROR:Error locating parent resource: network_switch/Chassis_49
+2018-06-14 09:04:59,954:ERROR:Error locating parent resource: network_switch/Chassis_50
+2018-06-14 09:06:11,535:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:06:11,724:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:06:11,875:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:06:12,024:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:06:12,411:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:06:12,580:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:06:12,727:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:06:12,880:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:06:13,037:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:06:13,201:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:06:13,370:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:06:13,523:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:06:13,671:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:06:13,834:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:06:14,101:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:06:14,246:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:06:14,384:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:06:14,556:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:06:14,728:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:06:14,884:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:06:15,038:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:06:15,183:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:06:15,342:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:06:15,510:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:06:15,651:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:06:15,798:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:06:16,149:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:06:16,292:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:06:16,440:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:06:16,582:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:06:16,729:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:06:16,910:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:06:17,066:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:06:17,225:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:06:17,377:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:06:17,551:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:06:17,701:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:06:17,849:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:06:17,998:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:06:18,176:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:06:18,359:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:06:18,515:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:06:18,682:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:06:18,843:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:06:18,995:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:06:19,134:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:06:19,274:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:06:19,426:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:06:19,572:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:06:19,715:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:06:19,892:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:07:19,001:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:07:19,178:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:07:19,368:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:07:19,526:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:07:19,685:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:07:19,837:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:07:19,980:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:07:20,122:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:07:20,272:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:07:20,419:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:07:20,577:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:07:20,717:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:07:20,880:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:07:21,027:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:07:21,191:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:07:21,361:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:07:21,502:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:07:21,644:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:07:21,827:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:07:21,977:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:07:22,122:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:07:22,310:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:07:22,462:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:07:22,606:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:07:22,751:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:07:22,906:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:07:23,062:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:07:23,239:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:07:23,389:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:07:23,533:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:07:23,689:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:07:23,840:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:07:23,999:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:07:24,147:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:07:24,299:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:07:24,450:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:07:24,605:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:07:24,749:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:07:24,913:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:07:25,056:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:07:25,215:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:07:25,364:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:07:25,508:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:07:25,653:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:07:25,806:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:07:25,980:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:07:26,163:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:07:26,339:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:07:26,500:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:07:26,645:ERROR:Modifying the Global domain is not allowed.
+2018-06-14 09:07:26,803:ERROR:Modifying the Global domain is not allowed.
+2018-06-28 09:49:13,640:ERROR:Error locating resource family or model
+2018-06-28 09:49:13,655:ERROR:Error locating resource family or model
+2018-06-28 09:49:13,667:ERROR:Error locating resource family or model
+2018-06-28 09:49:13,684:ERROR:Error locating resource family or model
+2018-06-28 09:49:13,697:ERROR:Error locating resource family or model
+2018-06-28 09:49:13,709:ERROR:Error locating resource family or model
+2018-06-28 09:49:13,724:ERROR:Error locating resource family or model
+2018-06-28 09:49:13,739:ERROR:Error locating resource family or model
+2018-06-28 09:49:13,753:ERROR:Error locating resource family or model
+2018-06-28 09:49:13,768:ERROR:Error locating resource family or model
+2018-06-28 09:49:13,781:ERROR:Error locating resource family or model
+2018-06-28 09:49:13,794:ERROR:Error locating resource family or model
+2018-06-28 09:49:13,806:ERROR:Error locating resource family or model
+2018-06-28 09:49:13,820:ERROR:Error locating resource family or model
+2018-06-28 09:49:13,833:ERROR:Error locating resource family or model
+2018-06-28 09:49:13,846:ERROR:Error locating resource family or model
+2018-06-28 09:49:13,858:ERROR:Error locating resource family or model
+2018-06-28 09:49:13,871:ERROR:Error locating resource family or model
+2018-06-28 09:49:13,885:ERROR:Error locating resource family or model
+2018-06-28 09:49:13,897:ERROR:Error locating resource family or model
+2018-06-28 09:49:13,912:ERROR:Error locating resource family or model
+2018-06-28 09:49:13,926:ERROR:Error locating resource family or model
+2018-06-28 09:49:13,942:ERROR:Error locating resource family or model
+2018-06-28 09:49:13,956:ERROR:Error locating resource family or model
+2018-06-28 09:49:13,970:ERROR:Error locating resource family or model
+2018-06-28 09:49:13,983:ERROR:Error locating resource family or model
+2018-06-28 09:49:13,996:ERROR:Error locating resource family or model
+2018-06-28 09:49:14,011:ERROR:Error locating resource family or model
+2018-06-28 09:49:14,024:ERROR:Error locating resource family or model
+2018-06-28 09:49:14,036:ERROR:Error locating resource family or model
+2018-06-28 09:49:14,050:ERROR:Error locating resource family or model
+2018-06-28 09:49:14,068:ERROR:Error locating resource family or model
+2018-06-28 09:49:14,080:ERROR:Error locating resource family or model
+2018-06-28 09:49:14,094:ERROR:Error locating resource family or model
+2018-06-28 09:49:14,107:ERROR:Error locating resource family or model
+2018-06-28 09:49:14,120:ERROR:Error locating resource family or model
+2018-06-28 09:49:14,133:ERROR:Error locating resource family or model
+2018-06-28 09:49:14,147:ERROR:Error locating resource family or model
+2018-06-28 09:49:14,159:ERROR:Error locating resource family or model
+2018-06-28 09:49:14,171:ERROR:Error locating resource family or model
+2018-06-28 09:49:14,185:ERROR:Error locating resource family or model
+2018-06-28 09:49:14,198:ERROR:Error locating resource family or model
+2018-06-28 09:49:14,210:ERROR:Error locating resource family or model
+2018-06-28 09:49:14,224:ERROR:Error locating resource family or model
+2018-06-28 09:49:14,237:ERROR:Error locating resource family or model
+2018-06-28 09:49:14,252:ERROR:Error locating resource family or model
+2018-06-28 09:49:14,263:ERROR:Error locating resource family or model
+2018-06-28 09:49:14,287:ERROR:Error locating resource family or model
+2018-06-28 09:49:14,300:ERROR:Error locating resource family or model
+2018-06-28 09:49:14,312:ERROR:Error locating resource family or model
+2018-06-28 09:49:14,326:ERROR:Error locating resource family or model
+2018-06-28 09:53:44,567:ERROR:Error locating resource family or model
+2018-06-28 09:53:44,580:ERROR:Error locating resource family or model
+2018-06-28 09:53:44,592:ERROR:Error locating resource family or model
+2018-06-28 09:53:44,606:ERROR:Error locating resource family or model
+2018-06-28 09:53:44,619:ERROR:Error locating resource family or model
+2018-06-28 09:53:44,632:ERROR:Error locating resource family or model
+2018-06-28 09:53:44,651:ERROR:Error locating resource family or model
+2018-06-28 09:53:44,664:ERROR:Error locating resource family or model
+2018-06-28 09:53:44,677:ERROR:Error locating resource family or model
+2018-06-28 09:53:44,690:ERROR:Error locating resource family or model
+2018-06-28 09:53:44,703:ERROR:Error locating resource family or model
+2018-06-28 09:53:44,714:ERROR:Error locating resource family or model
+2018-06-28 09:53:44,726:ERROR:Error locating resource family or model
+2018-06-28 09:53:44,740:ERROR:Error locating resource family or model
+2018-06-28 09:53:44,753:ERROR:Error locating resource family or model
+2018-06-28 09:53:44,776:ERROR:Error locating resource family or model
+2018-06-28 09:53:44,790:ERROR:Error locating resource family or model
+2018-06-28 09:53:44,818:ERROR:Error locating resource family or model
+2018-06-28 09:53:44,842:ERROR:Error locating resource family or model
+2018-06-28 09:53:44,860:ERROR:Error locating resource family or model
+2018-06-28 09:53:44,878:ERROR:Error locating resource family or model
+2018-06-28 09:53:44,893:ERROR:Error locating resource family or model
+2018-06-28 09:53:44,906:ERROR:Error locating resource family or model
+2018-06-28 09:53:44,920:ERROR:Error locating resource family or model
+2018-06-28 09:53:44,934:ERROR:Error locating resource family or model
+2018-06-28 09:53:44,947:ERROR:Error locating resource family or model
+2018-06-28 09:53:44,960:ERROR:Error locating resource family or model
+2018-06-28 09:53:44,980:ERROR:Error locating resource family or model
+2018-06-28 09:53:44,992:ERROR:Error locating resource family or model
+2018-06-28 09:53:45,007:ERROR:Error locating resource family or model
+2018-06-28 09:53:45,020:ERROR:Error locating resource family or model
+2018-06-28 09:53:45,033:ERROR:Error locating resource family or model
+2018-06-28 09:53:45,048:ERROR:Error locating resource family or model
+2018-06-28 09:53:45,073:ERROR:Error locating resource family or model
+2018-06-28 09:53:45,087:ERROR:Error locating resource family or model
+2018-06-28 09:53:45,101:ERROR:Error locating resource family or model
+2018-06-28 09:53:45,115:ERROR:Error locating resource family or model
+2018-06-28 09:53:45,130:ERROR:Error locating resource family or model
+2018-06-28 09:53:45,152:ERROR:Error locating resource family or model
+2018-06-28 09:53:45,166:ERROR:Error locating resource family or model
+2018-06-28 09:53:45,179:ERROR:Error locating resource family or model
+2018-06-28 09:53:45,191:ERROR:Error locating resource family or model
+2018-06-28 09:53:45,204:ERROR:Error locating resource family or model
+2018-06-28 09:53:45,216:ERROR:Error locating resource family or model
+2018-06-28 09:53:45,229:ERROR:Error locating resource family or model
+2018-06-28 09:53:45,246:ERROR:Error locating resource family or model
+2018-06-28 09:53:45,259:ERROR:Error locating resource family or model
+2018-06-28 09:53:45,270:ERROR:Error locating resource family or model
+2018-06-28 09:53:45,283:ERROR:Error locating resource family or model
+2018-06-28 09:53:45,308:ERROR:Error locating resource family or model
+2018-06-28 09:53:45,320:ERROR:Error locating resource family or model
+2018-06-28 09:54:04,884:ERROR:Modifying the Global domain is not allowed.
+2018-06-28 09:54:05,028:ERROR:Modifying the Global domain is not allowed.
+2018-06-28 09:54:05,176:ERROR:Modifying the Global domain is not allowed.
+2018-06-28 09:54:05,335:ERROR:Modifying the Global domain is not allowed.
+2018-06-28 09:54:05,506:ERROR:Modifying the Global domain is not allowed.
+2018-06-28 09:54:05,656:ERROR:Modifying the Global domain is not allowed.
+2018-06-28 09:54:05,819:ERROR:Modifying the Global domain is not allowed.
+2018-06-28 09:54:05,957:ERROR:Modifying the Global domain is not allowed.
+2018-06-28 09:54:06,109:ERROR:Modifying the Global domain is not allowed.
+2018-06-28 09:54:06,249:ERROR:Modifying the Global domain is not allowed.
+2018-06-28 09:54:06,444:ERROR:Modifying the Global domain is not allowed.
+2018-06-28 09:54:06,586:ERROR:Modifying the Global domain is not allowed.
+2018-06-28 09:54:06,722:ERROR:Modifying the Global domain is not allowed.
+2018-06-28 09:54:06,877:ERROR:Modifying the Global domain is not allowed.
+2018-06-28 09:54:07,038:ERROR:Modifying the Global domain is not allowed.
+2018-06-28 09:54:07,198:ERROR:Modifying the Global domain is not allowed.
+2018-06-28 09:54:07,355:ERROR:Modifying the Global domain is not allowed.
+2018-06-28 09:54:07,494:ERROR:Modifying the Global domain is not allowed.
+2018-06-28 09:54:07,631:ERROR:Modifying the Global domain is not allowed.
+2018-06-28 09:54:07,792:ERROR:Modifying the Global domain is not allowed.
+2018-06-28 09:54:07,936:ERROR:Modifying the Global domain is not allowed.
+2018-06-28 09:54:08,080:ERROR:Modifying the Global domain is not allowed.
+2018-06-28 09:54:08,246:ERROR:Modifying the Global domain is not allowed.
+2018-06-28 09:54:08,429:ERROR:Modifying the Global domain is not allowed.
+2018-06-28 09:54:08,603:ERROR:Modifying the Global domain is not allowed.
+2018-06-28 09:54:08,757:ERROR:Modifying the Global domain is not allowed.
+2018-06-28 09:54:08,896:ERROR:Modifying the Global domain is not allowed.
+2018-06-28 09:54:09,029:ERROR:Modifying the Global domain is not allowed.
+2018-06-28 09:54:09,184:ERROR:Modifying the Global domain is not allowed.
+2018-06-28 09:54:09,388:ERROR:Modifying the Global domain is not allowed.
+2018-06-28 09:54:09,612:ERROR:Modifying the Global domain is not allowed.
+2018-06-28 09:54:09,777:ERROR:Modifying the Global domain is not allowed.
+2018-06-28 09:54:09,961:ERROR:Modifying the Global domain is not allowed.
+2018-06-28 09:54:10,146:ERROR:Modifying the Global domain is not allowed.
+2018-06-28 09:54:10,278:ERROR:Modifying the Global domain is not allowed.
+2018-06-28 09:54:10,454:ERROR:Modifying the Global domain is not allowed.
+2018-06-28 09:54:10,624:ERROR:Modifying the Global domain is not allowed.
+2018-06-28 09:54:10,812:ERROR:Modifying the Global domain is not allowed.
+2018-06-28 09:54:10,957:ERROR:Modifying the Global domain is not allowed.
+2018-06-28 09:54:11,102:ERROR:Modifying the Global domain is not allowed.
+2018-06-28 09:54:11,245:ERROR:Modifying the Global domain is not allowed.
+2018-06-28 09:54:11,391:ERROR:Modifying the Global domain is not allowed.
+2018-06-28 09:54:11,582:ERROR:Modifying the Global domain is not allowed.
+2018-06-28 09:54:11,760:ERROR:Modifying the Global domain is not allowed.
+2018-06-28 09:54:11,891:ERROR:Modifying the Global domain is not allowed.
+2018-06-28 09:54:12,028:ERROR:Modifying the Global domain is not allowed.
+2018-06-28 09:54:12,189:ERROR:Modifying the Global domain is not allowed.
+2018-06-28 09:54:12,320:ERROR:Modifying the Global domain is not allowed.
+2018-06-28 09:54:12,559:ERROR:Modifying the Global domain is not allowed.
+2018-06-28 09:54:12,771:ERROR:Modifying the Global domain is not allowed.
+2018-06-28 11:15:24,327:ERROR:Error locating parent resource: network_switch_1
+2018-06-28 11:15:24,347:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:15:24,364:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:15:24,381:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:15:24,398:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:15:24,417:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:15:24,435:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:15:24,451:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:15:24,468:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:15:24,485:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:15:24,502:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:15:24,519:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:15:24,534:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:15:24,550:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:15:24,566:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:15:24,583:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:15:24,600:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:15:24,617:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:15:24,648:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:15:24,667:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:15:24,683:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:15:24,700:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:15:24,717:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:15:24,734:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:15:24,751:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:15:24,767:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:15:24,784:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:15:24,807:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:15:24,823:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:15:24,840:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:15:24,858:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:15:24,876:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:15:24,893:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:15:24,911:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:15:24,928:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:15:24,946:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:15:24,962:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:15:24,980:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:15:24,997:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:15:25,013:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:15:25,031:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:15:25,048:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:15:25,064:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:15:25,082:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:15:25,099:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:15:25,115:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:15:25,133:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:15:25,149:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:15:25,166:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:15:25,182:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:15:25,200:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:16:21,416:ERROR:Error locating parent resource: network_switch_1
+2018-06-28 11:16:21,432:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:16:21,449:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:16:21,466:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:16:21,483:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:16:21,500:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:16:21,517:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:16:21,534:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:16:21,551:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:16:21,579:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:16:21,595:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:16:21,613:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:16:21,636:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:16:21,654:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:16:21,673:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:16:21,690:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:16:21,714:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:16:21,738:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:16:21,756:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:16:21,774:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:16:21,793:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:16:21,810:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:16:21,830:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:16:21,848:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:16:21,865:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:16:21,882:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:16:21,899:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:16:21,917:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:16:21,934:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:16:21,952:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:16:21,969:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:16:22,002:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:16:22,021:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:16:22,040:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:16:22,057:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:16:22,074:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:16:22,090:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:16:22,107:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:16:22,124:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:16:22,141:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:16:22,157:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:16:22,174:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:16:22,192:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:16:22,209:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:16:22,226:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:16:22,244:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:16:22,262:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:16:22,286:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:16:22,303:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:16:22,329:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:16:22,346:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:18:46,445:ERROR:Error locating folder: cypherpath machines 
+2018-06-28 11:18:46,465:ERROR:Error locating parent resource: network_switch_1
+2018-06-28 11:18:46,481:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:18:46,502:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:18:46,519:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:18:46,538:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:18:46,554:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:18:46,570:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:18:46,587:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:18:46,605:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:18:46,621:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:18:46,640:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:18:46,656:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:18:46,674:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:18:46,693:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:18:46,710:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:18:46,731:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:18:46,749:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:18:46,765:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:18:46,782:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:18:46,799:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:18:46,815:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:18:46,834:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:18:46,850:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:18:46,866:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:18:46,883:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:18:46,900:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:18:46,916:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:18:46,933:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:18:46,949:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:18:46,967:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:18:46,983:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:18:47,000:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:18:47,031:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:18:47,050:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:18:47,067:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:18:47,082:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:18:47,100:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:18:47,116:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:18:47,150:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:18:47,170:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:18:47,188:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:18:47,209:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:18:47,232:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:18:47,249:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:18:47,267:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:18:47,283:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:18:47,300:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:18:47,316:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:18:47,341:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:18:47,359:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:18:47,375:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:19:26,728:ERROR:Error locating parent resource: network_switch_1
+2018-06-28 11:19:26,749:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:19:26,765:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:19:26,784:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:19:26,801:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:19:26,817:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:19:26,833:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:19:26,863:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:19:26,880:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:19:26,908:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:19:26,931:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:19:26,949:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:19:26,966:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:19:26,986:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:19:27,006:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:19:27,032:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:19:27,048:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:19:27,064:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:19:27,080:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:19:27,096:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:19:27,111:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:19:27,127:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:19:27,144:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:19:27,158:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:19:27,199:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:19:27,227:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:19:27,254:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:19:27,277:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:19:27,303:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:19:27,320:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:19:27,337:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:19:27,355:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:19:27,371:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:19:27,394:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:19:27,415:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:19:27,431:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:19:27,447:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:19:27,464:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:19:27,488:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:19:27,503:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:19:27,518:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:19:27,534:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:19:27,549:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:19:27,566:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:19:27,582:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:19:27,623:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:19:27,642:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:19:27,659:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:19:27,676:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:19:27,693:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:19:27,710:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:21:18,876:ERROR:Error locating parent resource: network_switch_1
+2018-06-28 11:21:18,894:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:21:18,910:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:21:18,927:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:21:18,943:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:21:18,974:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:21:18,991:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:21:19,012:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:21:19,029:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:21:19,047:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:21:19,063:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:21:19,079:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:21:19,095:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:21:19,114:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:21:19,131:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:21:19,148:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:21:19,165:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:21:19,182:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:21:19,200:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:21:19,216:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:21:19,233:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:21:19,249:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:21:19,267:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:21:19,286:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:21:19,302:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:21:19,334:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:21:19,352:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:21:19,369:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:21:19,385:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:21:19,402:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:21:19,422:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:21:19,438:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:21:19,454:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:21:19,486:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:21:19,504:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:21:19,520:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:21:19,538:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:21:19,556:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:21:19,573:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:21:19,589:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:21:19,606:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:21:19,623:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:21:19,638:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:21:19,655:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:21:19,672:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:21:19,689:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:21:19,706:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:21:19,724:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:21:19,742:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:21:19,779:ERROR:Error locating parent resource: network_switch_1/Chassis_1
+2018-06-28 11:21:19,804:ERROR:Error locating parent resource: network_switch_1/Chassis_1
