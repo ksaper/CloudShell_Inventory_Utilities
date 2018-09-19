@@ -19,7 +19,7 @@ class AutoloadRow:
             self.autoload = False
 
         self.parent = row[3].value.split(' ')[0].strip()
-        self.name = row[4].value.strip()
+        self.name = str(row[4].value).strip()
         if self.parent:
             self.fullname = '%s/%s' % (self.parent, self.name)
         else:
@@ -28,21 +28,21 @@ class AutoloadRow:
         self.resource_family = row[5].value.strip()
         self.resource_model = row[6].value.strip()
         self.domain = []
-        dom_list = row[7].value
+        dom_list = str(row[7].value)
         temp = dom_list.split(',')
         for each in temp:
             self.domain.append(each.strip())
-        self.address = row[8].value.strip()
+        self.address = str(row[8].value).strip()
         self.folder_path = row[9].value.strip()
         self.connection_type = row[10].value.strip()
         self.user = row[11].value.strip()
-        self.password = row[12].value.strip()
-        self.enable_password = row[13].value.strip()
-        self.description = row[14].value.strip()
+        self.password = str(row[12].value).strip()
+        self.enable_password = str(row[13].value).strip()
+        self.description = str(row[14].value).strip()
         self.driver_name = row[15].value.strip()
-        self.snmp_version = row[16].value.strip()
-        self.snmp_read_str = row[17].value.strip()
-        self.location = row[18].value.strip()
+        self.snmp_version = str(row[16].value).strip()
+        self.snmp_read_str = str(row[17].value).strip()
+        self.location = str(row[18].value).strip()
         if str(row[19].value).upper().strip() == 'Y':
             self.enable_snmp = True
         else:
