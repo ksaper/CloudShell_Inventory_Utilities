@@ -18,7 +18,7 @@ class AutoloadRow:
         else:
             self.autoload = False
 
-        self.parent = row[3].value.split(' ')[0].strip()
+        self.parent = str(row[3].value).strip()
         self.name = str(row[4].value).strip()
         if self.parent:
             self.fullname = '%s/%s' % (self.parent, self.name)
