@@ -525,6 +525,7 @@ class CloudShellInventoryUtilities:
         print '  7) Generate Inventory List'
         print '  8) Generate User List'
         print '  9) Update Users'
+        print ' '
 
 
 ##########################################
